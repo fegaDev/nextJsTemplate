@@ -1,0 +1,13 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.footer h3{
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
+.footer span{
+    color: red;
+    font-weight: normal;
+}

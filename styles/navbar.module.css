@@ -1,0 +1,19 @@
+.navbar{    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.navbarBrand{
+    font-size: 1.8rem;
+    color: white;
+    font-weight: bold;
+    text-shadow: 1px 3px 3px black;
+    font-family: 'Roboto',sans-serif;
+}
+.ulist{
+    display: flex;
+    flex-direction: row;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
